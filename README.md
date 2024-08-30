@@ -1,1 +1,1 @@
-# Android-App
+An android app focused on elderly people that has a very basic and easy to use interface with distinct colors to make everything stand out and easier to see. It also utilizes some basic voice commands. The project was created in android studio using Java.
